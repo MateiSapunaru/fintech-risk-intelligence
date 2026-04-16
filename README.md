@@ -74,8 +74,8 @@ User (Streamlit UI)
 
 > User inputs applicant data and receives a decision + probability
 
-📸 *<img width="1877" height="862" alt="image" src="https://github.com/user-attachments/assets/7ee00094-4312-42dd-8f91-9814069200bc" />
-*
+<img width="1877" height="862" alt="image" src="https://github.com/user-attachments/assets/7ee00094-4312-42dd-8f91-9814069200bc" />
+
 
 ---
 
@@ -83,11 +83,11 @@ User (Streamlit UI)
 
 > Each prediction is accompanied by interpretable feature contributions
 
-📸 *<img width="798" height="860" alt="image" src="https://github.com/user-attachments/assets/705e3bce-f5f5-4201-916f-a3702e01b488" />
+<img width="798" height="860" alt="image" src="https://github.com/user-attachments/assets/705e3bce-f5f5-4201-916f-a3702e01b488" />
 <img width="790" height="860" alt="image" src="https://github.com/user-attachments/assets/72e02a0d-017b-450d-aeee-e1527446a4ab" />
 <img width="1079" height="600" alt="image" src="https://github.com/user-attachments/assets/b0ce99b9-2285-445e-bed9-75144a5f6f1e" />
 
-*
+
 
 ---
 
@@ -95,8 +95,8 @@ User (Streamlit UI)
 
 > Compare performance across different models
 
-📸 *<img width="1888" height="825" alt="image" src="https://github.com/user-attachments/assets/bbe38f01-feb3-4c5f-a98e-c4132b808765" />
-*
+<img width="1888" height="825" alt="image" src="https://github.com/user-attachments/assets/bbe38f01-feb3-4c5f-a98e-c4132b808765" />
+
 
 ---
 
@@ -104,8 +104,8 @@ User (Streamlit UI)
 
 > Stored predictions retrieved from PostgreSQL
 
-📸 *<img width="1856" height="620" alt="image" src="https://github.com/user-attachments/assets/763153cd-69d8-45ae-8aac-357adb16a5f9" />
-*
+<img width="1856" height="620" alt="image" src="https://github.com/user-attachments/assets/763153cd-69d8-45ae-8aac-357adb16a5f9" />
+
 
 ---
 
@@ -113,8 +113,8 @@ User (Streamlit UI)
 
 > Interactive FastAPI docs for testing endpoints
 
-📸 *<img width="1830" height="698" alt="image" src="https://github.com/user-attachments/assets/ac00bf8f-b1b2-4f27-8176-15fc1fd5e92b" />
-*
+<img width="1830" height="698" alt="image" src="https://github.com/user-attachments/assets/ac00bf8f-b1b2-4f27-8176-15fc1fd5e92b" />
+
 
 ---
 
