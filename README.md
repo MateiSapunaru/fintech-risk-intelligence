@@ -281,21 +281,3 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
-
-**Matei Săpunaru**
-Machine Learning Engineer
-
----
-
-## ⭐ Final Note
-
-This project was built to simulate a **production-ready fintech ML system**, combining:
-
-* machine learning
-* explainability
-* backend engineering
-* frontend UX
-* infrastructure
-
-If you found this useful, feel free to ⭐ the repository.
