@@ -1,0 +1,43 @@
+[project]
+name = "fintech-risk-intelligence"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
+requires-python = ">=3.11"
+dependencies = [
+    "pandas (>=3.0.2,<4.0.0)",
+    "numpy (>=2.4.4,<3.0.0)",
+    "scikit-learn (>=1.8.0,<2.0.0)",
+    "matplotlib (>=3.10.8,<4.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)",
+    "optuna (>=4.8.0,<5.0.0)",
+    "shap (>=0.51.0,<0.52.0)",
+    "xgboost (>=3.2.0,<4.0.0)",
+    "fastapi (>=0.135.3,<0.136.0)",
+    "uvicorn (>=0.42.0,<0.43.0)",
+    "streamlit (>=1.56.0,<2.0.0)",
+    "sqlalchemy (>=2.0.48,<3.0.0)",
+    "psycopg2-binary (>=2.9.11,<3.0.0)",
+    "python-dotenv (>=1.2.2,<2.0.0)",
+    "pydantic (>=2.12.5,<3.0.0)",
+    "joblib (>=1.5.3,<2.0.0)",
+    "azure-ai-ml (>=1.32.0,<2.0.0)",
+    "azure-identity (>=1.25.3,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.0.2,<10.0.0)",
+    "jupyter (>=1.1.1,<2.0.0)",
+    "ipykernel (>=7.2.0,<8.0.0)"
+]
+
+[tool.poetry]
+package-mode = false
